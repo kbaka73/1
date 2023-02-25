@@ -1,0 +1,16 @@
+
+table td,
+table tr,
+table th{
+  border: 2px solid var(--t-h-p);
+  padding: 5px;
+  color: var(--t-h-p);
+}
+.table h1{
+  color: var(--t-h-p);
+}
+
+.truo{
+  color: #0efa0e;
+  font-weight: bold;
+}

@@ -1,0 +1,26 @@
+.clients{
+  background: rgba(0, 0, 0, .5);
+  margin-top: 130px;
+  padding: 30px;
+}
+.progress span{
+  transition: all 2s ease;
+  background-color: orange;
+  text-align: right;
+  color: var( --t-h-p);
+}
+.skils p{
+  color: var( --t-h-p);
+
+}
+.clients .box{
+  color: var(--t-h-p);
+  text-align: center;
+}
+.FQ{
+  margin-top: 150px;
+}
+
+.FQ .container .accordion{
+  box-shadow: var(  --box-shadow);
+}
