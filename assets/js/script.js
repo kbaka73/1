@@ -279,7 +279,7 @@ const translations = {
 
 // count date
 
-let countDownDate = new Date("Mar 3, 2023 23:59:59").getTime();
+let countDownDate = new Date("Mar 3, 2025 23:59:59").getTime();
 let counter = setInterval(() => {
   // get date new
   let dateNow = new Date().getTime();
